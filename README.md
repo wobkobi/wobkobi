@@ -1,6 +1,12 @@
 <!--START_SECTION:waka-->
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=wobkobi&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=wobkobi&custom_title=All%20Time%20Stats&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wobkobi&layout=compact&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats)
+```text
+Java                12 hrs 8 mins   ██████████████████████▓░░   90.23 %
+GUI_DESIGNER_FORM   35 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+C                   19 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.39 %
+GitIgnore file      9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Git Config          5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Other               5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.65 %
+```
+
 <!--END_SECTION:waka-->
