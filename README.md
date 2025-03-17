@@ -10,3 +10,5 @@
     <img align="center" src="https://github-readme-stats-wobkobis-projects.vercel.app/api/wakatime?username=wobkobi&layout=compact&show_icons=true&custom_title=All%20Time%20Stats&theme=monokai-pro-spectrum&hide=Other&langs_count=24" alt="WakaTime All Time Stats" />
   </a>
 </div>
+
+<!--START_SECTION:activity-->
