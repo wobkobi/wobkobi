@@ -3,7 +3,7 @@
 <p align="center">
   <a href="https://www.harrisonraynes.com/" target="_blank">Website</a> •
   <a href="https://www.linkedin.com/in/harrisonraynes/" target="_blank">LinkedIn</a>
-  
+
 <!-- Stats Cards -->
 <div align="center">
   <!-- GitHub Stats Card -->
@@ -26,5 +26,4 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-<!-- You can use a GitHub action (e.g., https://github.com/ashutosh00710/github-readme-activity-readme) to auto-update this section -->
 <!--END_SECTION:activity-->
