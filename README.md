@@ -26,9 +26,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#69](https://github.com/wobkobi/my-portfolio/pull/69) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-2. 💪 Opened PR [#69](https://github.com/wobkobi/my-portfolio/pull/69) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-3. 🎉 Merged PR [#23](https://github.com/wobkobi/Sorting-Algorithms/pull/23) in [wobkobi/Sorting-Algorithms](https://github.com/wobkobi/Sorting-Algorithms)
-4. 🗣 Commented on [#68](https://github.com/wobkobi/my-portfolio/pull/68#issuecomment-2730967732) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-5. 🗣 Commented on [#68](https://github.com/wobkobi/my-portfolio/pull/68#issuecomment-2730939175) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+1. 🎉 Merged PR [#2](https://github.com/wobkobi/reactionBot/pull/2) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
+2. 💪 Opened PR [#2](https://github.com/wobkobi/reactionBot/pull/2) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
+3. 🎉 Merged PR [#69](https://github.com/wobkobi/my-portfolio/pull/69) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+4. 💪 Opened PR [#69](https://github.com/wobkobi/my-portfolio/pull/69) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+5. 🎉 Merged PR [#23](https://github.com/wobkobi/Sorting-Algorithms/pull/23) in [wobkobi/Sorting-Algorithms](https://github.com/wobkobi/Sorting-Algorithms)
 <!--END_SECTION:activity-->
