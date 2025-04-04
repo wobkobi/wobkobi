@@ -26,9 +26,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#78](https://github.com/wobkobi/my-portfolio/pull/78) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-2. 🎉 Merged PR [#77](https://github.com/wobkobi/my-portfolio/pull/77) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-3. 🎉 Merged PR [#76](https://github.com/wobkobi/my-portfolio/pull/76) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-4. 🎉 Merged PR [#75](https://github.com/wobkobi/my-portfolio/pull/75) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
-5. 🎉 Merged PR [#71](https://github.com/wobkobi/my-portfolio/pull/71) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+1. 🎉 Merged PR [#24](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/24) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
+2. 💪 Opened PR [#24](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/24) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
+3. 🎉 Merged PR [#78](https://github.com/wobkobi/my-portfolio/pull/78) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+4. 🎉 Merged PR [#77](https://github.com/wobkobi/my-portfolio/pull/77) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+5. 🎉 Merged PR [#76](https://github.com/wobkobi/my-portfolio/pull/76) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
 <!--END_SECTION:activity-->
