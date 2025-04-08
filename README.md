@@ -26,9 +26,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#26](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/26) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
-2. 💪 Opened PR [#26](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/26) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
-3. 🎉 Merged PR [#25](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/25) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
-4. 💪 Opened PR [#25](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/25) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
-5. 🎉 Merged PR [#24](https://github.com/wobkobi/ChatGPT-Discord-Bot/pull/24) in [wobkobi/ChatGPT-Discord-Bot](https://github.com/wobkobi/ChatGPT-Discord-Bot)
+1. 🎉 Merged PR [#81](https://github.com/wobkobi/my-portfolio/pull/81) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+2. 🎉 Merged PR [#3](https://github.com/wobkobi/pc-site/pull/3) in [wobkobi/pc-site](https://github.com/wobkobi/pc-site)
+3. 🗣 Commented on [#15](https://github.com/wobkobi/reactionBot/pull/15#issuecomment-2784651898) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
+4. 🎉 Merged PR [#14](https://github.com/wobkobi/reactionBot/pull/14) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
+5. 🎉 Merged PR [#13](https://github.com/wobkobi/reactionBot/pull/13) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
 <!--END_SECTION:activity-->
