@@ -26,9 +26,9 @@
 ### Recent Activity
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/wobkobi/public-transport-routing-app/pull/4) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
-2. 🎉 Merged PR [#3](https://github.com/wobkobi/public-transport-routing-app/pull/3) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
-3. 🎉 Merged PR [#5](https://github.com/wobkobi/public-transport-routing-app/pull/5) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
-4. 🎉 Merged PR [#2](https://github.com/wobkobi/public-transport-routing-app/pull/2) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
-5. 🎉 Merged PR [#6](https://github.com/wobkobi/public-transport-routing-app/pull/6) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
+1. 🎉 Merged PR [#12](https://github.com/wobkobi/public-transport-routing-app/pull/12) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
+2. 🎉 Merged PR [#17](https://github.com/wobkobi/reactionBot/pull/17) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
+3. 🎉 Merged PR [#9](https://github.com/wobkobi/public-transport-routing-app/pull/9) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
+4. 🎉 Merged PR [#96](https://github.com/wobkobi/my-portfolio/pull/96) in [wobkobi/my-portfolio](https://github.com/wobkobi/my-portfolio)
+5. 🎉 Merged PR [#12](https://github.com/wobkobi/olympics-app/pull/12) in [wobkobi/olympics-app](https://github.com/wobkobi/olympics-app)
 <!--END_SECTION:activity-->
