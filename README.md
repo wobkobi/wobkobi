@@ -24,11 +24,3 @@
 <hr />
 
 ### Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#23](https://github.com/wobkobi/reactionBot/pull/23#issuecomment-2836806682) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
-2. 🎉 Merged PR [#24](https://github.com/wobkobi/reactionBot/pull/24) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
-3. 🎉 Merged PR [#22](https://github.com/wobkobi/reactionBot/pull/22) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
-4. 🎉 Merged PR [#12](https://github.com/wobkobi/public-transport-routing-app/pull/12) in [wobkobi/public-transport-routing-app](https://github.com/wobkobi/public-transport-routing-app)
-5. 🎉 Merged PR [#17](https://github.com/wobkobi/reactionBot/pull/17) in [wobkobi/reactionBot](https://github.com/wobkobi/reactionBot)
-<!--END_SECTION:activity-->
